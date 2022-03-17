@@ -16,3 +16,15 @@ If the meeting has not started yet, the meeting the screen will look different. 
 3. Paste it into the **Token field** under settings.
 
 ![MeetingRegistration03](https://user-images.githubusercontent.com/2312881/141530050-99acb689-147f-43b4-baf9-6715bd97e29b.png)
+
+
+## Remote control - HTTP API
+
+The HTTP API makes it very easy to control and automate your production workflows.
+The default API Server port is 7890 and the server is listening on all interfaces. The API Key can be found and also changed in "Remote" tab of the settings dialog.
+
+The full API documentation can be found here:
+https://documenter.getpostman.com/view/19249171/UVsMuRMq
+
+![VideoComRemoteSettings](https://user-images.githubusercontent.com/2312881/158803145-228254a2-03ad-46f0-b135-0986c9f12584.png)
+
