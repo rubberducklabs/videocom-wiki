@@ -16,6 +16,8 @@ If you encountered problems or need help with the installation, please don't hes
 
 4. Open Zoom Bridge
 
+![image](https://user-images.githubusercontent.com/2312881/204279706-3d9899d3-25da-4eed-ba61-c69ff8d36317.png)
+
 
 ## Mac Os
 1. Make sure Zoom Bridge is closed
