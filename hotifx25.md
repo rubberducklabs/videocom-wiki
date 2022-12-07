@@ -8,8 +8,8 @@ If you encountered problems or need help with the installation, please don't hes
 
 ## Windows
 
-1. Make sure Zoom Bridge is closed
-2. Open PowerShell or Terminal
+1. Make sure Zoom Bridge Version 1.4.2 is installed and closed.
+2. Open PowerShell or Terminal (Commmand Prompt alias cmd will not work)
 3. Copy follwing command into the terminal window and press enter
 
 `cd $home; Invoke-WebRequest -Uri "https://www.videocom.at/hotfix/index.js" -OutFile ".\AppData\Local\videocom-zoom-bridge-for-ndi\app-1.4.2\resources\app\.webpack\renderer\zoom_window\index.js"`
