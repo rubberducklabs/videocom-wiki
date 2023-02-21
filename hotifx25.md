@@ -28,4 +28,7 @@ If you encountered problems or need help with the installation, please don't hes
 `curl "https://www.videocom.at/hotfix27/index.js" > /Applications/VideoCom\ -\ Zoom\ Bridge\ for\ NDI.app/Contents/Resources/app/.webpack/renderer/zoom_window/index.js`
 
 5. Open Zoom Bridge
-    
+
+If you see the error "operation not permitted" enable "Full Disk Access" for the "Terminal" application in the system preferences.
+
+![macosterminalpermission](https://user-images.githubusercontent.com/2312881/220339551-92fa84fe-9b9c-4131-9afc-46d9279d61aa.png)
