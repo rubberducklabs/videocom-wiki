@@ -6,8 +6,7 @@ Please check that local recording is enabled for the meeting. In some cases does
 
 There are also individual user settings and group settings. Make sure that local recording is enabled.
 
-![RecordingConsentUserGuide](https://github.com/rubberducklabs/videocom-wiki/assets/2312881/82bc6c6e-ad0b-47f1-8390-0eb7f0174e65)
-
+![RecordingConsentUserGuide](https://github.com/rubberducklabs/videocom-wiki/assets/2312881/33ed4413-cfbc-47cc-be33-33e848bbdecb)
 
 A detailed instruction how to enable local recording can be found here:
 https://support.zoom.us/hc/en-us/articles/201362473-Enabling-and-starting-local-recordings#h_01FFG9ZE61WH273M0SBG3ESVD7
