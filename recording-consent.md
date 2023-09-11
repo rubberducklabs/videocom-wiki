@@ -1,6 +1,7 @@
 # Recording Consent Dialog does not appear!
 
-Please check that local recording is enabled for the meeting. In some cases does it helps to to disable local recording and enabling it again.
+
+Please check that local recording is enabled for the meeting. In some cases does it helps to to disable local recording and enabling it again. Customers have reported that the consent dialog for recording does not appear when automatic recording is activated for a meeting. Please disable the automatic recording feature and initiate the recording manually.
 
 ![LocalRecording](https://github.com/rubberducklabs/videocom-wiki/assets/2312881/381cc416-2c24-4240-b030-3ae0588bc95d)
 
